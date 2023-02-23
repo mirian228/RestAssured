@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-23T12:57:10 GET" name="Default suite" finished-at="2023-02-23T12:57:12 GET" duration-ms="2639">
+    <groups>
+    </groups>
+    <test started-at="2023-02-23T12:57:10 GET" name="Default test" finished-at="2023-02-23T12:57:12 GET" duration-ms="2639">
+      <class name="day3.HeadersTest">
+        <test-method signature="getAllHeaders()[pri:2, instance:day3.HeadersTest@694abbdc]" started-at="2023-02-23T12:57:10 GET" name="getAllHeaders" finished-at="2023-02-23T12:57:12 GET" duration-ms="2590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllHeaders -->
+      </class> <!-- day3.HeadersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
