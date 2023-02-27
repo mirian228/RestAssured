@@ -2,16 +2,16 @@
 <testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-25T17:14:48 GET" name="Default suite" finished-at="2023-02-25T17:14:50 GET" duration-ms="1436">
+  <suite started-at="2023-02-27T14:55:07 GET" name="Default suite" finished-at="2023-02-27T14:55:10 GET" duration-ms="3676">
     <groups>
     </groups>
-    <test started-at="2023-02-25T17:14:48 GET" name="Default test" finished-at="2023-02-25T17:14:50 GET" duration-ms="1436">
-      <class name="day4.ParsingJSONResponseData">
-        <test-method signature="testJsonResponseBodyData()[pri:3, instance:day4.ParsingJSONResponseData@6356695f]" started-at="2023-02-25T17:14:48 GET" name="testJsonResponseBodyData" finished-at="2023-02-25T17:14:50 GET" duration-ms="1397" status="PASS">
+    <test started-at="2023-02-27T14:55:07 GET" name="Default test" finished-at="2023-02-27T14:55:10 GET" duration-ms="3676">
+      <class name="day5.ParsingXMLResponse">
+        <test-method signature="testXMLResponseWithObjectDifferentValidations()[pri:3, instance:day5.ParsingXMLResponse@694abbdc]" started-at="2023-02-27T14:55:07 GET" name="testXMLResponseWithObjectDifferentValidations" finished-at="2023-02-27T14:55:10 GET" duration-ms="3622" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testJsonResponseBodyData -->
-      </class> <!-- day4.ParsingJSONResponseData -->
+        </test-method> <!-- testXMLResponseWithObjectDifferentValidations -->
+      </class> <!-- day5.ParsingXMLResponse -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
